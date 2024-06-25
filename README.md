@@ -11,7 +11,7 @@ The Bankist App is a comprehensive banking simulation built with JavaScript, CSS
 - Automatic logout timer
 - Sorting transactions
 - Internationalization of dates and currency
-- 
+  
 ## Technical Highlights
 - Advanced array methods (map, filter, reduce, find, findIndex)
 - Date and number formatting using Intl API
